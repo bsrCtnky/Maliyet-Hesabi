@@ -1,0 +1,77 @@
+8.4.2021 16:37:14	This log contains information about the import schema operation into project 'Database1' on computer 'GRAFIK2' by user 'user'.
+8.4.2021 16:37:14	Import of database schema has started.
+8.4.2021 16:37:18	Gathering database options
+8.4.2021 16:37:18	Gathering users
+8.4.2021 16:37:18	Gathering roles
+8.4.2021 16:37:18	Gathering application roles
+8.4.2021 16:37:18	Gathering role memberships
+8.4.2021 16:37:18	Gathering filegroups
+8.4.2021 16:37:18	Gathering full-text catalogs
+8.4.2021 16:37:18	Gathering assemblies
+8.4.2021 16:37:18	Gathering certificates
+8.4.2021 16:37:18	Gathering asymmetric keys
+8.4.2021 16:37:18	Gathering symmetric keys
+8.4.2021 16:37:18	Gathering encrypted symmetric keys
+8.4.2021 16:37:18	Gathering schemas
+8.4.2021 16:37:18	Gathering XML schema collections
+8.4.2021 16:37:18	Gathering user-defined data types
+8.4.2021 16:37:18	Gathering user-defined types
+8.4.2021 16:37:18	Gathering table types
+8.4.2021 16:37:18	Gathering unique keys for table types
+8.4.2021 16:37:18	Gathering primary keys for table types
+8.4.2021 16:37:18	Gathering indexes for table types
+8.4.2021 16:37:18	Gathering check constraints for table types
+8.4.2021 16:37:18	Gathering default constraints for table types
+8.4.2021 16:37:18	Gathering partition functions
+8.4.2021 16:37:18	Gathering partition schemes
+8.4.2021 16:37:18	Gathering functions
+8.4.2021 16:37:18	Gathering encrypted functions
+8.4.2021 16:37:18	Gathering aggregates
+8.4.2021 16:37:18	Gathering procedures
+8.4.2021 16:37:18	Gathering encrypted procedures
+8.4.2021 16:37:18	Gathering tables
+8.4.2021 16:37:18	Gathering primary keys
+8.4.2021 16:37:18	Gathering unique constraints
+8.4.2021 16:37:18	Gathering foreign keys
+8.4.2021 16:37:18	Gathering default constraints
+8.4.2021 16:37:18	Gathering check constraints
+8.4.2021 16:37:18	Gathering views
+8.4.2021 16:37:18	Gathering encrypted views
+8.4.2021 16:37:18	Gathering indexes
+8.4.2021 16:37:18	Gathering statistics
+8.4.2021 16:37:18	Gathering full-text index stoplists
+8.4.2021 16:37:18	Gathering search property lists
+8.4.2021 16:37:18	Gathering search properties
+8.4.2021 16:37:18	Gathering full-text indexes
+8.4.2021 16:37:18	Gathering column store indexes
+8.4.2021 16:37:18	Gathering spatial indexes
+8.4.2021 16:37:18	Gathering XML indexes
+8.4.2021 16:37:18	Gathering Selective XML indexes
+8.4.2021 16:37:18	Gathering encrypted triggers
+8.4.2021 16:37:18	Gathering triggers
+8.4.2021 16:37:18	Gathering encrypted and clr ddl triggers
+8.4.2021 16:37:18	Gathering ddl triggers
+8.4.2021 16:37:18	Gathering synonyms
+8.4.2021 16:37:18	Gathering defaults
+8.4.2021 16:37:18	Gathering data constraint uddt bindings
+8.4.2021 16:37:18	Gathering rules
+8.4.2021 16:37:18	Gathering data constraint uddt bindings
+8.4.2021 16:37:18	Gathering message types
+8.4.2021 16:37:18	Gathering queues
+8.4.2021 16:37:18	Gathering contracts
+8.4.2021 16:37:18	Gathering services
+8.4.2021 16:37:18	Gathering event notifications
+8.4.2021 16:37:18	Gathering remote service bindings
+8.4.2021 16:37:18	Gathering broker priorities
+8.4.2021 16:37:18	Gathering signatures
+8.4.2021 16:37:18	Gathering data compression options
+8.4.2021 16:37:18	Gathering sequence types
+8.4.2021 16:37:18	Gathering extended properties
+8.4.2021 16:37:18	Gathering credentials
+8.4.2021 16:37:18	Gathering logins
+8.4.2021 16:37:18	Gathering server audits
+8.4.2021 16:37:19	Scanning project for duplicate elements
+8.4.2021 16:37:19	Finished duplicate element processing
+8.4.2021 16:37:20	Finished importing database.
+8.4.2021 16:37:20	A summary of the import was saved to the following location: C:\Users\user\source\repos\Database1\Import Schema Logs\Database1_20210408013714.log
+8.4.2021 16:37:20	Click Finish to continue...

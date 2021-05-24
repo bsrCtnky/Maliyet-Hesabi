@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\PM_MaliyetHesaplama\PM_MaliyetHesaplama\obj\Debug\PM_MaliyetHesaplama.AnaSayfa.resources
+C:\Users\user\source\repos\PM_MaliyetHesaplama\PM_MaliyetHesaplama\obj\Debug\PM_MaliyetHesaplama.Properties.Resources.resources
+C:\Users\user\source\repos\PM_MaliyetHesaplama\PM_MaliyetHesaplama\obj\Debug\PM_MaliyetHesaplama.csproj.GenerateResource.cache
+C:\Users\user\source\repos\PM_MaliyetHesaplama\PM_MaliyetHesaplama\obj\Debug\PM_MaliyetHesaplama.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\PM_MaliyetHesaplama\PM_MaliyetHesaplama\bin\Debug\PM_MaliyetHesaplama.exe.config
+C:\Users\user\source\repos\PM_MaliyetHesaplama\PM_MaliyetHesaplama\bin\Debug\PM_MaliyetHesaplama.exe
+C:\Users\user\source\repos\PM_MaliyetHesaplama\PM_MaliyetHesaplama\bin\Debug\PM_MaliyetHesaplama.pdb
+C:\Users\user\source\repos\PM_MaliyetHesaplama\PM_MaliyetHesaplama\obj\Debug\PM_MaliyetHesaplama.exe
+C:\Users\user\source\repos\PM_MaliyetHesaplama\PM_MaliyetHesaplama\obj\Debug\PM_MaliyetHesaplama.pdb
+C:\Users\user\source\repos\PM_MaliyetHesaplama\PM_MaliyetHesaplama\obj\Debug\PM_MaliyetHesaplama.Kutu.resources
+C:\Users\user\source\repos\PM_MaliyetHesaplama\PM_MaliyetHesaplama\obj\Debug\PM_MaliyetHesaplama.Defter.resources
+C:\Users\user\source\repos\PM_MaliyetHesaplama\PM_MaliyetHesaplama\obj\Debug\PM_MaliyetHesaplama.Teklif.resources
+C:\Users\user\source\repos\PM_MaliyetHesaplama\PM_MaliyetHesaplama\obj\Debug\PM_MaliyetHesaplama.Canta.resources
+C:\Users\user\source\repos\PM_MaliyetHesaplama\PM_MaliyetHesaplama\obj\Debug\PM_MaliyetHesaplama.Stok.resources
+C:\Users\user\source\repos\PM_MaliyetHesaplama\PM_MaliyetHesaplama\obj\Debug\PM_MaliyetHesaplama.csprojAssemblyReference.cache
